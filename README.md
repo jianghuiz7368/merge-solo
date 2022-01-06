@@ -1,6 +1,6 @@
 # merge-solo
 
-Mr.Mueller
+SEP
 
 is
 
@@ -10,4 +10,4 @@ very
 
 cool
 
-and...
+and fun
